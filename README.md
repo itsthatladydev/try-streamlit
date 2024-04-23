@@ -1,4 +1,4 @@
-# try-streamlit
+# try-streamlit with copilot 🚀
 trying out streamlit with a little help from gh copilot
 
 Learn more about getting the most out of GitHb Copilot by visiting these resources:
